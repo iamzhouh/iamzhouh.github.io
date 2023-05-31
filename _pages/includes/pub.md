@@ -20,4 +20,4 @@ Keyang Cheng, Yu Si, **<font style="background: #eeffee">Hao Zhou</font>**, Rabi
 
 - [Sonar Image Garbage Detection via Global Despeckling and Dynamic Attention Graph Optimization](https://www.sciencedirect.com/science/article/pii/S0925231223001133). Keyang Cheng, Liuyang Yan, Yi Ding, **<font style="background: #eeffee">Hao Zhou</font>**, Maozhen Li and Humaira abdul Ghafoor. **Neurocomputing**
 
-- [DRIB: Interpreting DNN with Dynamic Reasoning and Information Bottleneck](https://link.springer.com/chapter/10.1007/978-981-19-5194-7_14). Yu Si, Keyang Cheng, Zhou Jiang, **<font style="background: #eeffee">Hao Zhou</font>** and Rabia Tahir. **ICPCSEE 2022**
+- ``ICPCSEE 2022``[DRIB: Interpreting DNN with Dynamic Reasoning and Information Bottleneck](https://link.springer.com/chapter/10.1007/978-981-19-5194-7_14). Yu Si, Keyang Cheng, Zhou Jiang, **<font style="background: #eeffee">Hao Zhou</font>** and Rabia Tahir. **ICPCSEE 2022**
