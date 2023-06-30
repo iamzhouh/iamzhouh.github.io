@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# Honors and Awards
 
 <!-- - *2022.09* Second-Class Academic Scholarship (学业奖学金二等奖)
 - *2022.07* 中国研究生人工智能创新大赛二等奖
