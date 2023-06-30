@@ -1,5 +1,5 @@
 
-# 📖 Educations
+# Educations
 - *2021.09 - now*, Master, [Jiangsu University](https://www.ujs.edu.cn/), Zhenjiang.
 - *2017.09 - 2021.07*, Undergraduate, [Wenjing College](http://www.yitsd.edu.cn/), [Yantai University](https://www.ytu.edu.cn/), Yantai.
 
