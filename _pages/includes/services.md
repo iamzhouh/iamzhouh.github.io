@@ -1,2 +1,2 @@
 # Services
-**Reviewer:** Neural computing & applications.
+**Reviewer:** Neural Computing & Applications.
